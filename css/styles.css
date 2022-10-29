@@ -1,0 +1,9 @@
+section {
+    display: inline-block;
+}
+
+article {
+    display: inline-block;
+    width: 350px;
+    height: 150px;
+}
