@@ -1,9 +1,13 @@
 section {
     display: inline-block;
 }
-
-article {
+.img-social-media{
+    width: 30px;
+    height: 30px;
+}
+li{
+    display: inline;
+}
+.nuestro-equipo{
     display: inline-block;
-    width: 350px;
-    height: 150px;
 }
